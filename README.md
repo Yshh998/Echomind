@@ -105,8 +105,8 @@ These features are in the roadmap but not yet implemented:
 
 ## 💻 Run Locally
 
-```bash
-git clone https://github.com/your-username/echomind.git
-cd echomind
+git clone https://github.com/Yshh998/Echomind.git
+cd Echomind
 pip install -r requirements.txt
 streamlit run app.py
+
